@@ -123,3 +123,10 @@ More [Donate](http://vulhub.org/#/docs/donate/).
 ## License
 
 Vulhub is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
+
+## NVD漏洞详情
+```bash
+https://nvd.nist.gov/vuln/detail/CVE-2021-43798
+# 查找References to Advisories, Solutions, and Tools
+# 查找Exploit标签
+```
